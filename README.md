@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Bullying children offline and online.
 - 🌱 I’m currently learning ...SQL and Python
 - 💞️ I’m looking to collaborate on ... making websites
-- 📫 How to reach me ... cubiqqqq@mail2tor.com
+- 📫 How to reach me ... cubic@cubiqq.xyz
 
 <!---
 Cubic01/Cubic01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
